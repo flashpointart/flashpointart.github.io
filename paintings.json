@@ -1,0 +1,97 @@
+{
+  "paintings": [
+    {
+      "frontImg": "paintings/paint1.png",
+      "backImg": "",
+      "frame": "#555",
+      "title": "Marco Lodola",
+      "description": [
+        "80cm x 50cm",
+        "Authentic (Signed)"
+      ]
+    },
+
+    {
+      "frontImg": "paintings/paint2.png",
+      "backImg": "",
+      "frame": "white",
+      "title": "Marco Lodola",
+      "description": [
+        "120cm x 100cm",
+        "Authentic (Signed)"
+      ]
+    },
+
+    {
+      "frontImg": "paintings/paint3.png",
+      "backImg": "",
+      "frame": "white",
+      "title": "Marco Lodola",
+      "description": [
+        "80cm x 50cm",
+        "Authentic (Signed)"
+      ]
+    },
+
+    {
+      "frontImg": "paintings/paint4.png",
+      "backImg": "",
+      "frame": "",
+      "title": "Mario Schifano",
+      "description": [
+        "70cm x 100cm",
+        "Authentic (Signed) Published",
+        "on Metodologico catalogue (p.549)",
+        "1997",
+        "Computerized acrylic"
+      ]
+    },
+
+    {
+      "frontImg": "paintings/paint5.png",
+      "backImg": "",
+      "frame": "white",
+      "title": "Mr Brainwash",
+      "description": [
+        "65cm x 95cm",
+        "Authentic (Signed)",
+        "2008"
+      ]
+    },
+
+    {
+      "frontImg": "paintings/paint6.png",
+      "backImg": "",
+      "frame": "white",
+      "title": "Banksy",
+      "description": [
+        "40cm x 60cm",
+        "Authentic (Signed)"
+      ]
+    },
+
+    {
+      "frontImg": "paintings/paint7.png",
+      "backImg": "paintings/paint7b.png",
+      "frame": "white",
+      "title": "Banksy",
+      "description": [
+        "40cm x 30cm",
+        "Nr. 13 of 50",
+        "Authentic (Signed)"
+      ]
+    },
+
+    {
+      "frontImg": "paintings/paint8.png",
+      "backImg": "paintings/paint8b.png",
+      "frame": "white",
+      "title": "Banksy",
+      "description": [
+        "30cm x 40cm",
+        "Nr. 22 of 52",
+        "Authentic (Signed)"
+      ]
+    }
+  ]
+}
