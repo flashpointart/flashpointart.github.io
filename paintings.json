@@ -14,7 +14,7 @@
     {
       "frontImg": "paintings/paint2.png",
       "backImg": "",
-      "frame": "white",
+      "frame": "#555",
       "title": "Marco Lodola",
       "description": [
         "120cm x 100cm",
@@ -25,7 +25,7 @@
     {
       "frontImg": "paintings/paint3.png",
       "backImg": "",
-      "frame": "white",
+      "frame": "#555",
       "title": "Marco Lodola",
       "description": [
         "80cm x 50cm",
@@ -36,7 +36,7 @@
     {
       "frontImg": "paintings/paint4.png",
       "backImg": "",
-      "frame": "",
+      "frame": "white",
       "title": "Mario Schifano",
       "description": [
         "70cm x 100cm",
