@@ -204,18 +204,14 @@
     {
       "frontImg": "paintings/doppia_ferita3.png",
       "backImg": "",
-      "frame": "#a89a00",
+      "frame": "#555",
       "title": "Pierluigi De Lutti",
       "description": [
         "60cm x 110cm",
         "Title : Doppia ferita",
         "Authentic (Signed)",
         "Mixed media on wood"
-      ],
-      "material_args": {
-        "roughness": 0.5,
-        "metalness": 0.5
-      }
+      ]
     }
   ]
 }
